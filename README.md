@@ -1,5 +1,5 @@
 # endless-runner-game
-my second game (btw learning c#)
+it is my second game and
 I'm a complete beginner in c#. 
-//Game Description.
+/* Game Description */
 In this game our player runs and try to survive the obstacles by jumping and also collect coins to increase the score.
